@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "sEEjDQjClgM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\goodi\\source\\repos\\Windows10LastWord\\Windows10LastWord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.web.webview2\\1.0.3179.45\\microsoft.web.webview2.1.0.3179.45.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.26100.6584\\microsoft.windows.sdk.buildtools.10.0.26100.6584.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windows.sdk.buildtools.msix\\1.7.20250829.1\\microsoft.windows.sdk.buildtools.msix.1.7.20250829.1.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windowsappsdk\\1.8.250916003\\microsoft.windowsappsdk.1.8.250916003.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windowsappsdk.ai\\1.8.38\\microsoft.windowsappsdk.ai.1.8.38.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windowsappsdk.base\\1.8.250831001\\microsoft.windowsappsdk.base.1.8.250831001.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windowsappsdk.dwrite\\1.8.25090401\\microsoft.windowsappsdk.dwrite.1.8.25090401.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windowsappsdk.foundation\\1.8.250906002\\microsoft.windowsappsdk.foundation.1.8.250906002.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windowsappsdk.interactiveexperiences\\1.8.250906004\\microsoft.windowsappsdk.interactiveexperiences.1.8.250906004.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windowsappsdk.ml\\1.8.2091\\microsoft.windowsappsdk.ml.1.8.2091.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windowsappsdk.runtime\\1.8.250916003\\microsoft.windowsappsdk.runtime.1.8.250916003.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windowsappsdk.widgets\\1.8.250904007\\microsoft.windowsappsdk.widgets.1.8.250904007.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windowsappsdk.winui\\1.8.250906003\\microsoft.windowsappsdk.winui.1.8.250906003.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.20\\microsoft.aspnetcore.app.runtime.win-x64.8.0.20.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.20\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.20.nupkg.sha512",
+    "C:\\Users\\goodi\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.20\\microsoft.netcore.app.runtime.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

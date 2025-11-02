@@ -1,0 +1,448 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0/win-arm64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {},
+    ".NETCoreApp,Version=v8.0/win-arm64": {
+      "Windows10LastWord/1.0.0": {
+        "dependencies": {
+          "Microsoft.NET.ILLink.Tasks": "8.0.20",
+          "Microsoft.Windows.SDK.BuildTools": "10.0.26100.6584",
+          "Microsoft.WindowsAppSDK": "1.8.250916003",
+          "runtimepack.Microsoft.NETCore.App.Runtime.win-arm64": "8.0.20",
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.57"
+        },
+        "runtime": {
+          "Windows10LastWord.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.NETCore.App.Runtime.win-arm64/8.0.20": {
+        "runtime": {
+          "Microsoft.Win32.Registry.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Collections.Concurrent.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Collections.Immutable.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Collections.NonGeneric.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Collections.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.ComponentModel.Primitives.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.ComponentModel.TypeConverter.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.ComponentModel.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Diagnostics.DiagnosticSource.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Diagnostics.Process.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Diagnostics.StackTrace.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Formats.Asn1.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.IO.Compression.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.IO.MemoryMappedFiles.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Linq.Expressions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Linq.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Net.Http.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Net.NameResolution.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Net.NetworkInformation.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Net.Primitives.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Net.Quic.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Net.Security.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Net.Sockets.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.ObjectModel.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Private.CoreLib.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Private.Uri.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Reflection.Metadata.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Runtime.InteropServices.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Runtime.Numerics.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Security.Claims.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Security.Cryptography.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Security.Principal.Windows.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.Threading.Channels.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          },
+          "System.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "8.0.2025.41914"
+          }
+        },
+        "native": {
+          "Microsoft.DiaSymReader.Native.arm64.dll": {
+            "fileVersion": "14.42.34436.0"
+          },
+          "System.IO.Compression.Native.dll": {
+            "fileVersion": "8.0.2025.41914"
+          },
+          "clretwrc.dll": {
+            "fileVersion": "8.0.2025.41914"
+          },
+          "clrgc.dll": {
+            "fileVersion": "8.0.2025.41914"
+          },
+          "clrjit.dll": {
+            "fileVersion": "8.0.2025.41914"
+          },
+          "coreclr.dll": {
+            "fileVersion": "8.0.2025.41914"
+          },
+          "createdump.exe": {
+            "fileVersion": "8.0.2025.41914"
+          },
+          "hostfxr.dll": {
+            "fileVersion": "8.0.2025.41914"
+          },
+          "hostpolicy.dll": {
+            "fileVersion": "8.0.2025.41914"
+          },
+          "mscordaccore.dll": {
+            "fileVersion": "8.0.2025.41914"
+          },
+          "mscordaccore_arm64_arm64_8.0.2025.41914.dll": {
+            "fileVersion": "8.0.2025.41914"
+          },
+          "mscordbi.dll": {
+            "fileVersion": "8.0.2025.41914"
+          },
+          "mscorrc.dll": {
+            "fileVersion": "8.0.2025.41914"
+          },
+          "msquic.dll": {
+            "fileVersion": "2.4.8.0"
+          }
+        }
+      },
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.57": {
+        "runtime": {
+          "Microsoft.Windows.SDK.NET.dll": {
+            "assemblyVersion": "10.0.19041.38",
+            "fileVersion": "10.0.19041.55"
+          },
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.48161"
+          }
+        }
+      },
+      "Microsoft.NET.ILLink.Tasks/8.0.20": {},
+      "Microsoft.Web.WebView2/1.0.3179.45": {
+        "native": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "fileVersion": "1.0.3179.45"
+          }
+        }
+      },
+      "Microsoft.Windows.SDK.BuildTools/10.0.26100.6584": {},
+      "Microsoft.Windows.SDK.BuildTools.MSIX/1.7.20250829.1": {},
+      "Microsoft.WindowsAppSDK/1.8.250916003": {
+        "dependencies": {
+          "Microsoft.WindowsAppSDK.AI": "1.8.38",
+          "Microsoft.WindowsAppSDK.Base": "1.8.250831001",
+          "Microsoft.WindowsAppSDK.DWrite": "1.8.25090401",
+          "Microsoft.WindowsAppSDK.Foundation": "1.8.250906002",
+          "Microsoft.WindowsAppSDK.InteractiveExperiences": "1.8.250906004",
+          "Microsoft.WindowsAppSDK.ML": "1.8.2091",
+          "Microsoft.WindowsAppSDK.Runtime": "1.8.250916003",
+          "Microsoft.WindowsAppSDK.Widgets": "1.8.250904007",
+          "Microsoft.WindowsAppSDK.WinUI": "1.8.250906003"
+        }
+      },
+      "Microsoft.WindowsAppSDK.AI/1.8.38": {
+        "dependencies": {
+          "Microsoft.WindowsAppSDK.Base": "1.8.250831001",
+          "Microsoft.WindowsAppSDK.Foundation": "1.8.250906002"
+        }
+      },
+      "Microsoft.WindowsAppSDK.Base/1.8.250831001": {
+        "dependencies": {
+          "Microsoft.Windows.SDK.BuildTools": "10.0.26100.6584",
+          "Microsoft.Windows.SDK.BuildTools.MSIX": "1.7.20250829.1"
+        }
+      },
+      "Microsoft.WindowsAppSDK.DWrite/1.8.25090401": {
+        "dependencies": {
+          "Microsoft.WindowsAppSDK.Base": "1.8.250831001"
+        }
+      },
+      "Microsoft.WindowsAppSDK.Foundation/1.8.250906002": {
+        "dependencies": {
+          "Microsoft.WindowsAppSDK.Base": "1.8.250831001",
+          "Microsoft.WindowsAppSDK.InteractiveExperiences": "1.8.250906004"
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.17763.0/Microsoft.WindowsAppRuntime.Bootstrap.Net.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.0"
+          }
+        },
+        "native": {
+          "runtimes/win-arm64/native/Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll": {
+            "fileVersion": "1.8.0.0"
+          },
+          "runtimes/win-arm64/native/Microsoft.WindowsAppRuntime.Bootstrap.dll": {
+            "fileVersion": "1.8.0.0"
+          }
+        }
+      },
+      "Microsoft.WindowsAppSDK.InteractiveExperiences/1.8.250906004": {
+        "dependencies": {
+          "Microsoft.WindowsAppSDK.Base": "1.8.250831001"
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.18362.0/Microsoft.InteractiveExperiences.Projection.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.27108.1004"
+          }
+        }
+      },
+      "Microsoft.WindowsAppSDK.ML/1.8.2091": {
+        "dependencies": {
+          "Microsoft.WindowsAppSDK.Base": "1.8.250831001",
+          "Microsoft.WindowsAppSDK.Foundation": "1.8.250906002"
+        },
+        "native": {
+          "runtimes/win-arm64/native/onnxruntime.lib": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Microsoft.WindowsAppSDK.Runtime/1.8.250916003": {
+        "dependencies": {
+          "Microsoft.WindowsAppSDK.Base": "1.8.250831001"
+        }
+      },
+      "Microsoft.WindowsAppSDK.Widgets/1.8.250904007": {
+        "dependencies": {
+          "Microsoft.WindowsAppSDK.Base": "1.8.250831001"
+        }
+      },
+      "Microsoft.WindowsAppSDK.WinUI/1.8.250906003": {
+        "dependencies": {
+          "Microsoft.Web.WebView2": "1.0.3179.45",
+          "Microsoft.WindowsAppSDK.Base": "1.8.250831001",
+          "Microsoft.WindowsAppSDK.Foundation": "1.8.250906002",
+          "Microsoft.WindowsAppSDK.InteractiveExperiences": "1.8.250906004"
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.17763.0/Microsoft.WinUI.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.2509"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Windows10LastWord/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.NETCore.App.Runtime.win-arm64/8.0.20": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.57": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NET.ILLink.Tasks/8.0.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rhcto2AjGvTO62+/VTmBpumBOmqIGp7nYEbTbmEXkCq4yPGxV8whju3/HsIA/bKyo2+DggaYk5+/8sxb1AbPTw==",
+      "path": "microsoft.net.illink.tasks/8.0.20",
+      "hashPath": "microsoft.net.illink.tasks.8.0.20.nupkg.sha512"
+    },
+    "Microsoft.Web.WebView2/1.0.3179.45": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3pokSH5CnN0G6rGhGFo1y87inxYhNxBQ2Vdf0wlvBj99KHxQJormjDACmqRnFeUsmuNFIhWwfAL1ztq7wD5qRA==",
+      "path": "microsoft.web.webview2/1.0.3179.45",
+      "hashPath": "microsoft.web.webview2.1.0.3179.45.nupkg.sha512"
+    },
+    "Microsoft.Windows.SDK.BuildTools/10.0.26100.6584": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EUt+urbMmyBgDX7CA/8eUZRAzi5CKUHyLvQnKkmCUBgpsgaquGb6/XAORzKy6zy/zbu5RoeTxQP9TSntpP3ETw==",
+      "path": "microsoft.windows.sdk.buildtools/10.0.26100.6584",
+      "hashPath": "microsoft.windows.sdk.buildtools.10.0.26100.6584.nupkg.sha512"
+    },
+    "Microsoft.Windows.SDK.BuildTools.MSIX/1.7.20250829.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IMdvRmCIZnBS5GkYnv0po1bcx6U1OF39pqA4TphQ9evDzpCRoSE19/PkDvlUNNrBavTsLIEJgd/TAIFner75ow==",
+      "path": "microsoft.windows.sdk.buildtools.msix/1.7.20250829.1",
+      "hashPath": "microsoft.windows.sdk.buildtools.msix.1.7.20250829.1.nupkg.sha512"
+    },
+    "Microsoft.WindowsAppSDK/1.8.250916003": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bK4p8d1WlugC01ntIdr0UhvLXiYkplc4kbCX5hOs5sTcy+YyeVqs7OHEAPVf6jdZyxwIUBLuGOo1F9GaWQKgsg==",
+      "path": "microsoft.windowsappsdk/1.8.250916003",
+      "hashPath": "microsoft.windowsappsdk.1.8.250916003.nupkg.sha512"
+    },
+    "Microsoft.WindowsAppSDK.AI/1.8.38": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6qTuu2DLprytb+yx8bKUDJLtp4CELeVcQo6JyhJYOjj1cGzOGLnweQKg+OuwkX1u/LVJGDjnad5TAjU7mEoeSw==",
+      "path": "microsoft.windowsappsdk.ai/1.8.38",
+      "hashPath": "microsoft.windowsappsdk.ai.1.8.38.nupkg.sha512"
+    },
+    "Microsoft.WindowsAppSDK.Base/1.8.250831001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8LlfXBS2Hpw+OoVXViJmIOPXl0nMbqMaFR3j6+QHFNc62VULwPEcXiMRcP2WbV/+mtC7W2LH6yx6uu/Hrr9lVw==",
+      "path": "microsoft.windowsappsdk.base/1.8.250831001",
+      "hashPath": "microsoft.windowsappsdk.base.1.8.250831001.nupkg.sha512"
+    },
+    "Microsoft.WindowsAppSDK.DWrite/1.8.25090401": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WJ0p9yMgiNYqU2O5ZKCXcb7FBjryIUUopgeYMvnlf1yBUYgdjMFMkoJqYVqkz866wnntiB2IZhLxEzhFzvVs1A==",
+      "path": "microsoft.windowsappsdk.dwrite/1.8.25090401",
+      "hashPath": "microsoft.windowsappsdk.dwrite.1.8.25090401.nupkg.sha512"
+    },
+    "Microsoft.WindowsAppSDK.Foundation/1.8.250906002": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ltIXeHUX0AATpqmx/oBcRK+zhtK0KAfoGqItlQRlef9kG7Itj9iXAI+1EdFr4cQYzHzFM3PPLszEWDyR633svA==",
+      "path": "microsoft.windowsappsdk.foundation/1.8.250906002",
+      "hashPath": "microsoft.windowsappsdk.foundation.1.8.250906002.nupkg.sha512"
+    },
+    "Microsoft.WindowsAppSDK.InteractiveExperiences/1.8.250906004": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UoK2yeZiycD1DmADHZz+hcMAoOaUfXLc9qUPfOjmVeKQ6i5ghGMjx/nd49bksP3wVhmSGHxb3argRKWPkK5maw==",
+      "path": "microsoft.windowsappsdk.interactiveexperiences/1.8.250906004",
+      "hashPath": "microsoft.windowsappsdk.interactiveexperiences.1.8.250906004.nupkg.sha512"
+    },
+    "Microsoft.WindowsAppSDK.ML/1.8.2091": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+7zsWOnsMCxR1LY+W2v0Mk4eVqV464dqpp99XXaSrh6pDLNzpQHNRq9qoPHJqRapAg3Mrp90RayUZ8EltkabGw==",
+      "path": "microsoft.windowsappsdk.ml/1.8.2091",
+      "hashPath": "microsoft.windowsappsdk.ml.1.8.2091.nupkg.sha512"
+    },
+    "Microsoft.WindowsAppSDK.Runtime/1.8.250916003": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y58FxcrVDOJyhh+4kl6cTCaaAh2cLEDU/LIDvYX4Se6aiA1NkuvJ4XicaOPXdkIWl8pi15hj5PWqoMlYUQr1Cg==",
+      "path": "microsoft.windowsappsdk.runtime/1.8.250916003",
+      "hashPath": "microsoft.windowsappsdk.runtime.1.8.250916003.nupkg.sha512"
+    },
+    "Microsoft.WindowsAppSDK.Widgets/1.8.250904007": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sgwdXYhb8S4JjBmWWiFxALT1xK0fJeAbisolctmodMX7tlvBXDgUyvl/GHfTQ61DGIiW+kokX61WR46L2YlhAA==",
+      "path": "microsoft.windowsappsdk.widgets/1.8.250904007",
+      "hashPath": "microsoft.windowsappsdk.widgets.1.8.250904007.nupkg.sha512"
+    },
+    "Microsoft.WindowsAppSDK.WinUI/1.8.250906003": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6oskwUluqlDGwUcwYlY3GWTMLajyjh9e790SmWzCCMDRV6sunYbqp7DkiSLzn8nhgSbGvmj6zG92JnkYRlbrXw==",
+      "path": "microsoft.windowsappsdk.winui/1.8.250906003",
+      "hashPath": "microsoft.windowsappsdk.winui.1.8.250906003.nupkg.sha512"
+    }
+  },
+  "runtimes": {
+    "win-arm64": [
+      "win",
+      "any",
+      "base"
+    ]
+  }
+}

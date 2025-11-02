@@ -1,0 +1,2 @@
+C:\Users\goodi\source\repos\Windows10LastWord\bin\win-x64\publish\win-x64\Windows10LastWord.pdb
+C:\Users\goodi\source\repos\Windows10LastWord\bin\win-x64\publish\win-x64\Windows10LastWord.exe

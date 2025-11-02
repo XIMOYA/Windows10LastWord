@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Windows10LastWord</id>
+    <version>1.0.0</version>
+    <authors>Windows10LastWord</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows10.0.19041">
+        <dependency id="Microsoft.Windows.SDK.BuildTools" version="10.0.26100.6584" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.WindowsAppSDK" version="1.8.250916003" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\goodi\source\repos\Windows10LastWord\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Windows10LastWord.runtimeconfig.json" target="lib\net8.0-windows10.0.19041\Windows10LastWord.runtimeconfig.json" />
+    <file src="C:\Users\goodi\source\repos\Windows10LastWord\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Windows10LastWord.dll" target="lib\net8.0-windows10.0.19041\Windows10LastWord.dll" />
+  </files>
+</package>

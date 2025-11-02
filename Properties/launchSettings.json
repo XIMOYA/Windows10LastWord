@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Windows10LastWord (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Windows10LastWord (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
